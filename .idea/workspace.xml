@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676ca55c-a4d5-4ea2-8048-04b1f5ae69bd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchUnknownLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BloomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsistentHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EggDropProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindBiggestProductListIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HuffManEncoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KMPAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LargestRectangleHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPalindromicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maximum2DSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedianSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OptimizedGCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostOrderTraversalWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrettyPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RabinCarpAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RookAttack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="676ca55c-a4d5-4ea2-8048-04b1f5ae69bd" name="Default" comment="Adding Solved problems from Elements of Programming interviews + some known algorithms">
+      <change afterPath="$PROJECT_DIR$/src/AddList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindElementsOccuringOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeasureWithDefectiveContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberArithmeticWithoutArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueWithMaxJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReguarExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularExpressionMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomanNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniquePathsInAGrid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -364,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572440541523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Solved problems from Elements of Programming interviews + some known algorithms">
+      <created>1572440779876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572440779876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +375,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
